@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
+title: About
 image:
-  feature: Abschlussfoto_1989_header.jpg
+  feature: Zehn_Jahre_Abi_header.jpg
   credit: Abi 89
 ---
 Grundsätzlich ist diese Seite fest im Griff des Abi-Jahrgangs 1989 des [Gymnasium Petrinum Brilon](http://www.petrinum-brilon.de/).
